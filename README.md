@@ -14,4 +14,20 @@ https://github.com/torvalds/linux/blob/master/drivers/misc/eeprom/at24.c
 
 # Arduino Library
 
+### I2CScanner
+
+https://github.com/luisllamasbinaburo/Arduino-I2CScanner
+
+Should be 0x50
+
+### External EEPROM library 
+
 https://github.com/PaoloP74/extEEPROM
+
+
+
+# Utilities
+
+https://hex-works.com/eng
+
+
