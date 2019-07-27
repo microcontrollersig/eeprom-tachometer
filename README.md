@@ -38,6 +38,13 @@ https://hex-works.com/eng
 4. Take EEPROM dump
 5. Take diff
 
+# Similar I2C EEPROM
+https://docs-apac.rs-online.com/webdocs/137d/0900766b8137dd30.pdf
+
+Interested in "sequential read".
+
+
+
 
 
 
