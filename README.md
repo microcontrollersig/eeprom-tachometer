@@ -30,4 +30,14 @@ https://github.com/PaoloP74/extEEPROM
 
 https://hex-works.com/eng
 
+# Strategy
+
+1. Note tacho reading
+2. Take EEPROM dump
+3. Advance tacho reading
+4. Take EEPROM dump
+5. Take diff
+
+
+
 
